@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/java_project/src/java/com/project/data/ProductData.java</file>
+            <file>file:/C:/java_project/web/cart.jsp</file>
+            <file>file:/C:/java_project/web/WEB-INF/web.xml</file>
+            <file>file:/C:/java_project/build.xml</file>
+            <file>file:/C:/java_project/web/footer.jsp</file>
+            <file>file:/C:/java_project/web/CSS/productinfo.css</file>
+            <file>file:/C:/java_project/web/kids.jsp</file>
+            <file>file:/C:/java_project/web/CSS/login.css</file>
+            <file>file:/C:/java_project/web/Assets/product_1.png</file>
+            <file>file:/C:/java_project/src/java/com/project/servlet/AddToCartServlet.java</file>
+            <file>file:/C:/java_project/src/java/com/project/model/Order.java</file>
+            <file>file:/C:/java_project/web/admin.jsp</file>
+            <file>file:/C:/java_project/web/Assets/product_5.png</file>
+            <file>file:/C:/java_project/web/productinfo.jsp</file>
+            <file>file:/C:/java_project/src/java/com/project/model/Product.java</file>
+            <file>file:/C:/java_project/web/Assets/product_4.png</file>
+            <file>file:/C:/java_project/web/Assets/p1_product_i1.png</file>
+            <file>file:/C:/java_project/src/java/com/project/servlet/OrderServlet.java</file>
+            <file>file:/C:/java_project/web/index.jsp</file>
+            <file>file:/C:/java_project/nbproject/build-impl.xml</file>
+            <file>file:/C:/java_project/web/navbar.jsp</file>
+            <file>file:/C:/java_project/web/CSS/footer.css</file>
+            <file>file:/C:/java_project/src/java/com/project/data/OrderData.java</file>
+            <file>file:/C:/java_project/web/login.jsp</file>
+            <file>file:/C:/java_project/src/java/com/project/data/UserData.java</file>
+            <file>file:/C:/java_project/src/java/com/project/servlet/SignupServlet.java</file>
+            <file>file:/C:/java_project/web/signup.jsp</file>
+            <file>file:/C:/java_project/web/CSS/women.css</file>
+            <file>file:/C:/java_project/src/java/com/project/model/Cart.java</file>
+            <file>file:/C:/java_project/web/Assets/p1_product_i2.png</file>
+            <file>file:/C:/java_project/web/CSS/men.css</file>
+            <file>file:/C:/java_project/src/java/com/project/connection/DataBaseConnection.java</file>
+            <file>file:/C:/java_project/web/CSS/cart.css</file>
+            <file>file:/C:/java_project/web/CSS/index.css</file>
+            <file>file:/C:/java_project/web/CSS/navbar.css</file>
+            <file>file:/C:/java_project/web/Assets/product_2.png</file>
+            <file>file:/C:/java_project/src/java/com/project/servlet/LogoutServlet.java</file>
+            <file>file:/C:/java_project/web/men.jsp</file>
+            <file>file:/C:/java_project/web/women.jsp</file>
+            <file>file:/C:/java_project/web/Assets/p1_product_i3.png</file>
+            <file>file:/C:/java_project/web/CSS/kids.css</file>
+            <file>file:/C:/java_project/web/Assets/product_6.png</file>
+            <file>file:/C:/java_project/src/java/com/project/model/User.java</file>
+            <file>file:/C:/java_project/web/META-INF/context.xml</file>
+            <file>file:/C:/java_project/web/CSS/admin.css</file>
+            <file>file:/C:/java_project/src/java/com/project/servlet/RemoveCartProductServlet.java</file>
+            <file>file:/C:/java_project/web/CSS/signup.css</file>
+            <file>file:/C:/java_project/src/java/com/project/servlet/LoginServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
